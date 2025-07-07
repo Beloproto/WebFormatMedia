@@ -1,6 +1,7 @@
 # WebFormatMedia
 Web format pour le media Web3
 
+'''''''''
 HTML Structure
 ├── Header (Navigation)
 ├── Hero Section (Titre + Visuel)
